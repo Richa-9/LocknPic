@@ -1,7 +1,7 @@
 # LocknPic
-A tool used to encrypt and decrypt the image made on NodeJS.
+A tool used to encrypt and decrypt the image made on NodeJS. 
 
-# Tech-Stack
+## Tech-Stack
 NodeJS
 
 ## Installation
@@ -15,3 +15,9 @@ npm i -g .
 ```sh
 LocknPic -e myImage.png -i encryptedImage.png -p key.txt
 ```
+### For decrypting an image encryptedImage.png with its key key.txt to decryptedImage.png
+
+```sh
+LocknPic -d encryptedImage.png -k key.txt -i decryptedImage.png
+```
+
