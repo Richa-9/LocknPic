@@ -1,5 +1,5 @@
 # LocknPic
-A tool used to encrypt and decrypt the image made on NodeJS. 
+A tool used to encrypt and decrypt the image made on NodeJS.
 
 ## Tech-Stack
 NodeJS
